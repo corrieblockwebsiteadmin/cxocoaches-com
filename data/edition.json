@@ -1,0 +1,338 @@
+{
+  "site": {
+    "domain": "cxocoaches.com",
+    "title": "Top 10 Executive Coaches — Global",
+    "tagline": "An editorial ranking of practising executive coaches, curated on published evidence.",
+    "edition": "Q3 2026",
+    "published": "2026-08-10",
+    "next_review": "2026-12-10",
+    "curator": "Dr Corrie Jonn Block",
+    "contact": "admin@cxocoaches.com"
+  },
+  "editorial_note": [
+    "Most rankings of executive coaches recycle the same recognition. A large share of it originates from one connected network — Thinkers50's coaching award bears Marshall Goldsmith's name, its Coaching Legends programme runs in partnership with Goldsmith's 100 Coaches network, and many honoured coaches belong to it. Counting a Thinkers50 Legend induction, a Coaches50 listing, 100 Coaches membership and a Goldsmith endorsement as four independent validations is how a small circle comes to look like a consensus.",
+    "This list counts that network <strong>once</strong>, at the level of its strongest single element, and weights recognition from genuinely separate sources — peer-reviewed publication, professional bodies, university appointments, ICF governance — considerably higher. The result places several highly-decorated names lower than they appear elsewhere, and several less-promoted ones higher.",
+    "It also declines to repeat three widely-published claims that could not be verified at any source: any \"#1 coach in the world\" title traced to the Marshall Goldsmith Leading Global Coaches Awards, whose site returns no methodology, jury or winners list; any Global Gurus placement described as an award, since that ranking weights public website votes at 30% with open self-nomination; and any Thinkers50 tier upgraded from listing or longlist to recipient.",
+    "<strong>Disclosed bias.</strong> The recognition bodies in this field are overwhelmingly UK and US based, and this list reflects that. Eight of ten entries practise from the US or UK. That is a limitation of the available evidence, not a judgement about where good coaching happens."
+  ],
+  "coaches": [
+    {
+      "rank": 1,
+      "slug": "jonathan-passmore",
+      "name": "Professor Jonathan Passmore",
+      "location": "United Kingdom",
+      "role": "Professor of Coaching and Behavioural Change, Henley Business School; Senior Vice President, EZRA Coaching",
+      "links": [
+        {
+          "label": "jonathanpassmore.com",
+          "url": "https://www.jonathanpassmore.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/jonathan-passmore-08427b57/"
+        },
+        {
+          "label": "Henley Business School",
+          "url": "https://www.henley.ac.uk/people/jonathan-passmore"
+        }
+      ],
+      "bio": "Professor of Coaching and Behavioural Change at Henley Business School and Senior Vice President at EZRA Coaching. A chartered psychologist with five degrees including a doctorate in occupational psychology. He was instrumental in creating the British Psychological Society's Division of Coaching Psychology in 2021 and served as its inaugural Chair.",
+      "assessment": [
+        "He holds the only award record on this list that owes nothing to the Thinkers50 and 100 Coaches network: the British Psychological Society's Academic Contribution to Practice Award (2018), its Distinguished Contribution to Coaching Psychology (2017) and its Coaching Research Award (2012); the Association of Business Psychologists' Chair's Award for Excellence (2015); and the Association for Coaching's Global Impact Award (2010). Five honours from four independent scientific and professional bodies.",
+        "His published corpus is the largest here and the most rigorous — <em>Excellence in Coaching</em> (Kogan Page, 4th ed. 2021), <em>The Coaches' Handbook</em> (Routledge), <em>Becoming a Coach: The Essential ICF Guide</em>, plus peer-reviewed output his institution numbers in the hundreds. On generosity, the ICF guide and the handbooks are infrastructure for other coaches rather than shop windows for his own practice."
+      ],
+      "notes": [
+        "Also inducted as a Thinkers50 Coaching Legend (2025) and listed on Coaches50 (2024) — counted once under the interlink adjustment, and not the reason he ranks here.",
+        "Book and paper totals differ across his own site, Henley and Thinkers50. No single figure is printed."
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "carol-kauffman",
+      "name": "Dr Carol Kauffman",
+      "location": "Boston, Massachusetts, USA",
+      "role": "Founder, Institute of Coaching, McLean Hospital; Senior Leadership Advisor, Egon Zehnder",
+      "links": [
+        {
+          "label": "carolkauffman.com",
+          "url": "https://carolkauffman.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/carolkauffmanphd/"
+        }
+      ],
+      "bio": "Board-certified psychologist, on the faculty of Harvard Medical School for roughly 25 years, Senior Leadership Advisor at Egon Zehnder and Visiting Professor at Henley Business School.",
+      "assessment": [
+        "In 2009 she received a $2,000,000 award to establish the Institute of Coaching at McLean Hospital, and she was founding Editor-in-Chief of <em>Coaching: An International Journal of Theory, Research and Practice</em>. Founding the field's peer-reviewed journal is a different order of contribution from being ranked in it — it is infrastructure that outlives the person who built it, and it is the clearest single act of generosity on this list.",
+        "<em>Real-Time Leadership</em> (Harvard Business Review Press, 2023, with David Noble) is a serious trade book on a serious publisher. Inducted into the Thinkers50 Hall of Fame (2025), listed on Coaches50 (2024), and shortlisted for the 2019 coaching award."
+      ],
+      "notes": [
+        "Her most-quoted accolade — \"#1 leadership coach in the world\" — is a personal opinion offered by Marshall Goldsmith, who is not included in this edition, and she is a founding member of his network. It is excluded from her score."
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "david-clutterbuck",
+      "name": "Professor David Clutterbuck",
+      "location": "Maidenhead, England, UK",
+      "role": "Co-founder, European Mentoring and Coaching Council; Distinguished Principal Research Fellow, The Conference Board",
+      "links": [
+        {
+          "label": "clutterbuck-cmi.com",
+          "url": "https://clutterbuck-cmi.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/prof-david-clutterbuck/"
+        }
+      ],
+      "bio": "Co-founder of the European Mentoring and Coaching Council, Distinguished Principal Research Fellow in Human Capital at The Conference Board, and co-editor of the Routledge EMCC Masters series.",
+      "assessment": [
+        "He introduced supported developmental mentoring to Europe in the early 1980s and is credited by Thinkers50 with introducing what became 360-degree feedback. His publication record spans four decades and includes <em>Coaching &amp; Mentoring: A Journey Through the Models, Theories, Frameworks and Narratives of David Clutterbuck</em> (Routledge).",
+        "Co-editing a scholarly series for other practitioners, rather than only publishing his own work, is precisely the generosity marker the methodology looks for. Inducted as a Thinkers50 Coaching Legend (2024)."
+      ],
+      "notes": [
+        "A claimed EMCC award is excluded: he co-founded the EMCC and holds a lifetime office there, so it is not independent recognition.",
+        "His 2021 Thinkers50 appearance was a longlisting, not a win. Book counts range from 65 to 77 across four sources; none is printed."
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "muriel-wilkins",
+      "name": "Muriel Wilkins",
+      "location": "Washington, DC, USA",
+      "role": "CEO and founder, Paravis Partners; host, Coaching Real Leaders (Harvard Business Review)",
+      "links": [
+        {
+          "label": "murielwilkins.com",
+          "url": "https://www.murielwilkins.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/murielwilkins/"
+        }
+      ],
+      "bio": "CEO and founder of Paravis Partners, a leadership advisory firm. Previously on the senior executive team of U.S. News &amp; World Report with P&amp;L responsibility, and earlier at Accenture and The Prudential. MBA, Harvard Business School.",
+      "assessment": [
+        "<em>Coaching Real Leaders</em>, her Harvard Business Review podcast, is in its tenth season and consists of recorded coaching sessions with real executives, debriefed afterwards. Measured against the six thought-leadership markers this is close to the strongest body of public teaching in the profession: specific, because it is actual practice rather than description of practice; transferable, because the method is visible move by move; and intellectually honest in a way almost no coaching content manages, because the sessions include the moments that do not land. Most coaches write about coaching. She shows it.",
+        "<em>Leadership Unblocked</em> (Harvard Business Review Press, 2025) and <em>Own the Room</em> (HBR Press, 2013, with Amy Jen Su) are both on a serious publisher. Shortlisted for the Thinkers50 Coaching &amp; Mentoring Award 2025."
+      ],
+      "notes": [
+        "She holds no governance role at any body that has recognised her — the cleanest file on this list.",
+        "Reported as shortlisted, not a recipient; the 2025 award went to Hull and Moore. An \"award-winning\" podcast label and a USA Today bestseller placement could not be verified and are excluded."
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "peter-hawkins",
+      "name": "Professor Peter Hawkins",
+      "location": "Bath, England, UK",
+      "role": "Chairman, Renewal Associates; Emeritus Professor of Leadership, Henley Business School",
+      "links": [
+        {
+          "label": "renewalassociates.co.uk",
+          "url": "https://renewalassociates.co.uk/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://uk.linkedin.com/in/professorpeterhawkins"
+        }
+      ],
+      "bio": "Chairman of Renewal Associates, Emeritus Professor of Leadership at Henley Business School, and joint founder and Dean of the Global Team Coaching Institute.",
+      "assessment": [
+        "Systemic team coaching is a genuine original contribution rather than a repackaging, and he has built a substantial corpus around it — <em>Leadership Team Coaching</em> (Kogan Page, 4th ed. 2021), <em>Leadership Team Coaching in Practice</em> (3rd ed. 2022), <em>Systemic Coaching</em> (2020, with Eve Turner), and <em>Supervision in the Helping Professions</em> (5th ed. 2020), which is standard reference material for supervisors rather than a book about his own practice.",
+        "Shortlisted for the Thinkers50 Coaching &amp; Mentoring Award 2025 with Catherine Carr. He ranks fifth rather than higher because publication strength is not matched by verifiable independent recognition."
+      ],
+      "notes": [
+        "He is not a Thinkers50 Coaching Legend, contrary to some secondary sources — checked against all three published cohorts.",
+        "A claimed EMCC award traces to his own post about an award to an organisation he co-founded, and is excluded on both counts. His presidencies of APECS and the AoEC are offices held, not honours received.",
+        "Some sites style him \"Dr\"; the doctorate is unverified and his own site uses \"Professor\"."
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "marcia-reynolds",
+      "name": "Dr Marcia Reynolds",
+      "location": "Arizona, USA",
+      "role": "President, Covisioning LLC; Master Certified Coach",
+      "links": [
+        {
+          "label": "covisioning.com",
+          "url": "https://covisioning.com/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marciareynolds/"
+        }
+      ],
+      "bio": "President of Covisioning LLC and a Master Certified Coach, with a doctorate in organizational psychology and master's degrees in communication and adult learning.",
+      "assessment": [
+        "Five books with Berrett-Koehler — <em>Breakthrough Coaching</em> (2024), <em>Coach the Person, Not the Problem</em> (2020), <em>The Discomfort Zone</em> (2014) and <em>Wander Woman</em> (2010) — represent a sustained relationship with a serious independent publisher, and <em>Coach the Person, Not the Problem</em> is used as training material by other coaches rather than only read by clients.",
+        "ICF's own site records that she was the fifth global president of the International Coaching Federation and among the first twenty-five people worldwide to hold the MCC credential. She holds the ICF Circle of Distinction."
+      ],
+      "notes": [
+        "One correction: the 2024 ICF Coaching Impact Award was conferred on her client organisation AEON Vietnam in the Emerging Organizations category, not on her personally, and is recorded here accordingly.",
+        "Her ICF honours carry governance adjacency, since she formerly led the body. A \"Neuroplastician\" credential is a purchased commercial certification, not an award, and is excluded. The year of her Circle of Distinction could not be located."
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "philippe-rosinski",
+      "name": "Philippe Rosinski",
+      "location": "Rhode-Saint-Genèse, Belgium",
+      "role": "Principal, Rosinski &amp; Company; creator of the Cultural Orientations Framework",
+      "links": [
+        {
+          "label": "philrosinski.com",
+          "url": "https://philrosinski.com"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/philippe-rosinski-b9b5025/"
+        }
+      ],
+      "bio": "Principal of Rosinski &amp; Company since 1999. MSc in Electrical Engineering from Stanford and an Executive Master in Management from Solvay Brussels School. Creator of the Cultural Orientations Framework.",
+      "assessment": [
+        "The ICF Circle of Distinction (2022) is verified on ICF's own past-winners page — an independent, dated credential owing nothing to the Thinkers50 network, which on this methodology is worth more than several better-publicised honours.",
+        "<em>Coaching Across Cultures</em> (Nicholas Brealey, 2003) and <em>Global Coaching</em> (Nicholas Brealey, 2010) opened cross-cultural coaching as a distinct area of practice and have been translated into six languages. The Cultural Orientations Framework is a published instrument other practitioners use. He ranks seventh because recent output is thin relative to those above him."
+      ],
+      "notes": [
+        "Guest teaching at Cambridge and Harvard is not a faculty appointment and is not rendered here as an affiliation.",
+        "A 2003 Harvard Business School \"featured book recommendation\" is book-promotion copy, not an institutional honour. \"First European to be designated MCC\" is unverifiable. A \"World's Top 30 Coaching Professionals\" claim names no awarding body."
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "margaret-moore",
+      "name": "Margaret Moore",
+      "location": "Wellesley, Massachusetts, USA",
+      "role": "Founder, Wellcoaches Corporation; co-founder, Institute of Coaching and the National Board for Health and Wellness Coaching",
+      "links": [
+        {
+          "label": "wellcoachesschool.com",
+          "url": "https://www.wellcoachesschool.com/coach-meg"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/coachmeg/"
+        }
+      ],
+      "bio": "Founder of Wellcoaches Corporation (2000), co-founder of the Institute of Coaching at McLean Hospital (2009) and of the National Board for Health and Wellness Coaching (2010). Seventeen years in biotechnology beforehand, including as CEO of Virogenetics.",
+      "assessment": [
+        "Joint recipient of the Thinkers50 Distinguished Achievement Award for Coaching &amp; Mentoring (2025) — externally conferred, panel-decided, and free of circularity since neither recipient holds a Thinkers50 role.",
+        "More durable than the award: she has co-founded two pieces of standing infrastructure for the profession, an institute and a national credentialing board. Building the body that certifies other people is a heavier contribution than most individual accolades. <em>The Science of Leadership</em> (Berrett-Koehler, 2025) and the <em>Coaching Psychology Manual</em> (Lippincott Williams &amp; Wilkins, two editions) are both substantial."
+      ],
+      "notes": [
+        "She co-founded and chaired the Institute of Coaching, so nothing hosted on instituteofcoaching.org is treated as third-party recognition for her.",
+        "Her 2025 award is shared with Jeffrey Hull at entry 10, who is also her co-author on The Science of Leadership. One award and one book therefore appear twice in this edition; readers should not read that as two separate honours.",
+        "The publisher of Organize Your Mind, Organize Your Life is contradicted between sources and is not printed. Trainee and country counts are company self-reported."
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "modupe-taylor-pearce",
+      "name": "Dr Modupe Taylor-Pearce",
+      "location": "Sierra Leone",
+      "role": "Co-founder and CEO, BCA Leadership; founding Dean, African Leadership University School of Business",
+      "links": [
+        {
+          "label": "bcaleadership.com",
+          "url": "https://bcaleadership.com/project/dr-modupe-taylor-pearce/"
+        },
+        {
+          "label": "LinkedIn",
+          "url": "https://www.linkedin.com/in/modupe-taylor-pearce-205336/"
+        }
+      ],
+      "bio": "Co-founder and CEO of BCA Leadership, a pan-African CEO membership and leadership development organisation. West Point (BSc), Cornell (MEng) and Capella (PhD in Leadership, Organization and Management). Founding Dean of the African Leadership University School of Business.",
+      "assessment": [
+        "His documentation quality is among the cleanest on the shortlist — every recognition is verifiable on the awarding body's own site rather than only in his own materials: Thinkers50 Coaching Legend (2025), Coaches50 (2024), Thinkers50 Radar Class of 2022, and the 2021 coaching award shortlist.",
+        "He is also building C-suite coaching capacity in a market the recognition bodies barely reach, which is a contribution the Anglo-American circuit consistently under-counts. He ranks ninth because, under the interlink adjustment, that recognition is one signal rather than four, and his published work does not yet carry independent weight."
+      ],
+      "notes": [
+        "Most of his books are self-published through Lulu, including Business Bomba (2022).",
+        "Organisational scale claims — 2,000 African leaders, largest such organisation in Africa — are unaudited and attributed rather than asserted. BCA Leadership is registered in Mauritius; that is not his personal location."
+      ]
+    },
+    {
+      "rank": 10,
+      "slug": "jeffrey-hull",
+      "name": "Dr Jeffrey Hull",
+      "location": "New York, USA and Amsterdam, Netherlands",
+      "role": "Executive Director, Institute of Coaching, McLean Hospital; clinical instructor in psychology, Harvard Medical School",
+      "links": [
+        {
+          "label": "jeffreyhull.com",
+          "url": "https://www.jeffreyhull.com/"
+        }
+      ],
+      "bio": "Executive Director of the Institute of Coaching at McLean Hospital, a Harvard Medical School affiliate; clinical instructor in psychology at Harvard Medical School; adjunct professor of leadership at New York University; founder of LeaderShift Inc.",
+      "assessment": [
+        "Joint recipient of the Thinkers50 Distinguished Achievement Award for Coaching &amp; Mentoring (2025) — externally conferred, panel-decided, and free of circularity, since he holds no Thinkers50 role.",
+        "<em>The Science of Leadership</em> (Berrett-Koehler, 2025) and <em>Flex</em> (TarcherPerigee, 2019) are both on serious independent publishers, and his teaching appointments at Harvard Medical School and NYU place him among the small number of practitioners who also train the next generation formally."
+      ],
+      "notes": [
+        "His 2025 award is shared with Margaret Moore at entry 8, and The Science of Leadership is co-authored with her. Both are listed because each has an independent record beyond the shared credential, but that credential should be read once, not twice.",
+        "He is Executive Director of the Institute of Coaching and Moore is its co-founder, so nothing hosted on instituteofcoaching.org is treated as third-party recognition for either.",
+        "No LinkedIn profile is linked: two live profiles exist under his name and the canonical one could not be established.",
+        "A \"Forbes Top Business Books 2019\" badge and publisher jacket copy describing him as one of the world's preeminent leadership coaches are marketing, not recognition, and are excluded."
+      ]
+    }
+  ],
+  "ones_to_watch": [
+    {
+      "name": "Nankhonde Kasonde-van den Broek",
+      "location": "Lusaka, Zambia",
+      "url": "https://www.zangametrics.com/",
+      "text": "The 2021 Thinkers50 Distinguished Achievement Award recipient for Coaching and Mentoring — a genuine, panel-decided win, and the strongest single credential of anyone in this edition. She founded ZANGA African Metrics to build psychometric leadership assessments designed for high-context emerging markets rather than adapted from Western instruments, which is real intellectual work.",
+      "note": "She appears here rather than in the ten because she has not yet published a book and her first-party detail is not independently corroborated. Thinkers50 records her as working on her first book; she is not described here as an author."
+    },
+    {
+      "name": "Alisa Cohn",
+      "location": "New York, USA",
+      "url": "https://www.alisacohn.com/",
+      "text": "<em>From Start-Up to Grown-Up</em> (Kogan Page, 2021) is a genuinely useful operating manual for founder-CEOs, and her practice reaches an unusually senior political clientele.",
+      "note": "The widely-repeated \"#1 Startup Coach in the World, Thinkers50 2019\" title could not be confirmed on any Thinkers50 page; she was not an award recipient in 2019, 2021 or 2023. Her three book awards are paid-entry competitions — real, but not juried literary honours."
+    },
+    {
+      "name": "Hortense le Gentil",
+      "location": "New York, USA",
+      "url": "https://www.hortenselegentil.com/",
+      "text": "<em>The Unlocked Leader</em> (Wiley, 2023) and <em>Aligned</em> (Page Two, 2019), plus regular Harvard Business Review contribution.",
+      "note": "A \"#5 Global Gurus\" claim does not check out — the current source shows #27 on the 2026 Leadership list and no placement on the Coaching list. An Inc. listing is a named columnist's opinion piece published under Inc.'s disclaimer, not an Inc. ranking."
+    },
+    {
+      "name": "Brenda Bence",
+      "location": "Singapore and USA",
+      "url": "https://brendabence.com/",
+      "text": "Thinkers50 Coaching Legend (2025), first entry on Coaches50, and a C-suite succession practice spanning 60 nationalities per Thinkers50's independent profile.",
+      "note": "Her book count is stated inconsistently across four sources and is not printed here. Performance statistics on her site — a 100% succession success rate, 97% re-engagement — are self-reported and unaudited, and are excluded."
+    }
+  ],
+  "not_included": [
+    {
+      "name": "Marshall Goldsmith",
+      "text": "Excluded on the same category test applied to Michael Bungay Stanier: this list ranks coaches currently taking one-to-one engagements with senior leaders. At 76 his stated mission is to share his material with as many people as possible at no charge, and his recent coaching activity has centred on free group sessions and on stewarding the 100 Coaches network rather than individual C-suite practice. His published corpus and influence on the field are not in question, and neither is his generosity, which is genuinely exceptional — he publishes his work free and licenses others to adapt it. Two claims commonly attached to him are separately unverifiable and are not repeated here: the \"world's #1 executive coach\" title has no identifiable awarding body or year, and the claim to be a two-time Thinkers50 winner as World's Most Influential Leadership Thinker is contradicted by Thinkers50's own ranking data on his biography page. If this reading of his current practice is wrong, the correction route below applies and the entry will be reinstated."
+    },
+    {
+      "name": "Michael Bungay Stanier",
+      "text": "Holds the strongest Thinkers50 record of anyone researched — 2023 award recipient, 2024 Coaching Legend — and <em>The Coaching Habit</em> is among the best-selling coaching books ever written. Excluded on category, not quality: he is not a practising executive coach. His site offers books, courses, speaking and a paid community, with no one-to-one coaching; Box of Crayons was a corporate training business he has since exited."
+    },
+    {
+      "name": "John Mattone",
+      "text": "Ranked #1 on Global Gurus' Top 30 Coaching Professionals, a position he has held in six separate years. Not included because that ranking weights public website votes at 30% with open self-nomination and advertiser funding, which measures visibility rather than assessment. He is named here because a reader searching for top executive coaches will meet him first, and a ranking that quietly omits the self-declared #1 should say why."
+    },
+    {
+      "name": "Dr Ruth Gotian",
+      "text": "Holds a genuine Thinkers50 Radar Award (2021) and two books on Kogan Page and FT/Pearson. Excluded on seniority tier: her own coaching page describes selecting \"a limited number of mid and high-level professionals,\" and her expertise is mentorship and high-achiever psychology in academic medicine. Ranking her as a C-suite coach would overstate what she says about herself."
+    }
+  ],
+  "outstanding": [
+    "Jeffrey Hull's canonical LinkedIn profile — two live profiles exist under his name",
+    "Marcia Reynolds' ICF Circle of Distinction year",
+    "Carol Kauffman's Harvard mentoring award year",
+    "The Clutterbuck Routledge title — 2022 per Thinkers50, 2023 per Routledge",
+    "Sanyin Siang (Duke Fuqua), 2019 Thinkers50 award recipient — a verified woman award-winner and the most obvious gap in this edition; full verification pass scheduled for Q4"
+  ]
+}
